@@ -43,7 +43,7 @@ export default function Home() {
           </h1>
 
           <p className="text-lg sm:text-xl text-black/70 mb-12 leading-relaxed max-w-2xl mx-auto font-sans font-normal">
-             Pomodoro + análisis profundo + gamificación. Timely te ayuda a trabajar mejor, entender cómo trabajas, y construir consistencia.
+             Pomodoro + Tareas. Timely te ayuda a trabajar mejor, entender cómo trabajas, y construir consistencia.
           </p>
 
           <Link
