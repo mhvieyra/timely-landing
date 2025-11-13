@@ -12,20 +12,8 @@ export default function Home() {
           </Link>
 
           <div className="hidden md:flex items-center gap-12">
-            <Link
-              href="https://blog.timely.lat"
-              target="_blank"
-              className="text-black hover:text-black/60 transition-colors text-sm font-medium"
-            >
-              Blog
-            </Link>
-            <Link
-              href="https://app.timely.lat"
-              target="_blank"
-              className="text-black hover:text-black/60 transition-colors text-sm font-medium"
-            >
-              Inicia sesión
-            </Link>
+            
+            
             <Link
               href="https://app.timely.lat"
               target="_blank"
@@ -68,7 +56,7 @@ export default function Home() {
 
           {/* Hero Image */}
           <div className="mt-16 rounded-xl overflow-hidden border border-black/10 shadow-sm">
-            <img src="/images/image-202.png" alt="Timely app interface" className="w-full h-auto bg-black/5" />
+            <img src="/images/image-202.png" alt="Timely app interface" className="w-full h-auto bg-black/5 opacity-100" />
           </div>
         </div>
       </section>
